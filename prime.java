@@ -1,6 +1,6 @@
-package livetech;
+package Hyderabad;
 
-public class A 
+public class prime
 {
 	public static void main(String[] args) 
 	{
